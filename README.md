@@ -1,1 +1,2 @@
-# Algoritmos-e-Estrutura-de-Dados
+Algoritmos e Estrutura de Dados.
+Fase 1.
