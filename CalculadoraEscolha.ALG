@@ -10,7 +10,6 @@ Inicio
    
    Escreva("Informe o primeiro número:")
    Leia(Num1)
-   
    Escreva("Informe o segundo número:")
    Leia(Num2)
    
