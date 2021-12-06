@@ -4,13 +4,14 @@ Var
    Resultado: Real
    Operacao: Caractere
 Inicio
-   Escreval("Informe a operação:")
+   Escreval("Informe a operaÃ§Ã£o:")
    Escreval("SOMA, SUBTRACAO, MULTIPLICACAO, DIVISAO, RESTO, PORCENTAGEM")
    Leia(Operacao)
    
-   Escreva("Informe o primeiro número:")
+   Escreva("Informe o primeiro nÃºmero:")
    Leia(Num1)
-   Escreva("Informe o segundo número:")
+   
+   Escreva("Informe o segundo nÃºmero:")
    Leia(Num2)
    
    Escolha Operacao
@@ -27,7 +28,7 @@ Inicio
       Caso "PORCENTAGEM"
          Resultado <- Num1 * Num2 / 100
       OutroCaso
-         Escreva("Operação inválida.")
+         Escreva("OperaÃ§Ã£o invÃ¡lida.")
    FimEscolha
    
    Escreval("Resultado: ", Resultado)
